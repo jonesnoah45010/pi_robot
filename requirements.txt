@@ -1,0 +1,15 @@
+sparkfun-pi-servo-hat
+sparkfun-qwiic
+sparkfun-qwiic-i2c
+sparkfun-qwiic-kx13x
+sparkfun-qwiic-as6212
+pyserial
+spidev
+evdev
+dlib
+face_recognition
+opencv-python
+vosk
+pyaudio
+pyalsaaudio
+
